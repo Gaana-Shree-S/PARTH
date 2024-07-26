@@ -1,0 +1,1 @@
+The proposed IoT-based robotic model assists paralyzed patients in performing vital tasks independently, such as limb movements and sitting/standing exercises. It enhances rehabilitation efficiency, ensures real-time adjustments, reduces caregiver burden, and improves patient autonomy, well-being, and quality of life.
